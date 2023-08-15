@@ -1,0 +1,65 @@
+input {
+    border-radius: 3px;
+    padding: 10px;
+    color: white;
+    background-color: black;
+    border-color: white;
+}
+
+button {
+     border-radius: 5px;
+     padding: 10px;
+     color:black;
+     background-color:rgb(231, 187, 56);
+    
+}
+
+body{
+    background-color: black;
+} 
+
+.kik {
+ margin-left: 150px ;
+ display: flex;
+ justify-content: space-evenly;
+
+
+}
+
+#quantidadeLivros {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    margin-right: 500px;
+}
+
+.carrossel {
+margin-top: 60px;
+display: flex;
+flex-direction:column ;
+align-items: center;
+justify-content: center;
+
+}
+ 
+.vv {
+width: 190px;
+margin-left: 300px;
+height: 130px;
+}
+
+h1{
+    color:rgb(231, 187, 56);
+    font-family: 'Courier New', Courier, monospace
+}
+
+.line{
+    padding:1px;
+    background-color:rgb(231, 187, 56);
+}
+
+
+.botoes {
+display: flex;
+width: 100px;
+}
+
